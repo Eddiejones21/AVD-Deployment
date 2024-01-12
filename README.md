@@ -1,6 +1,7 @@
 # AVD-VM-Deployment
 AVD-VM Deployment
-	1.  Signed into https://portal.azure.com/
+ 
+ 	1.  Signed into https://portal.azure.com/
 	
 	2. Created a User
 	- Navigated to Users in the search tab
