@@ -1,6 +1,7 @@
 # AVD-Deployment
 	AVD-Deployment
- 	This repo serves to document my journey of deploying Azure Virtual Desktop. Also, in hopes that anyone who comes behind me can follow my instructions and easily learn as well.
+ 	
+  	This repo serves to document my journey of deploying Azure Virtual Desktop. Also, in hopes that anyone who comes behind me can follow my instructions and easily learn as well.
  
  	1.  Signed into https://portal.azure.com/
 	
