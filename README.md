@@ -1,5 +1,6 @@
-# AVD-VM-Deployment
-	AVD-VM Deployment
+# AVD-Deployment
+	AVD-Deployment
+ This repo serves to document my journey of deploying Azure Virtual Desktop. A couple of challenges I faced were due to permissions issues such as not being able to access the VM's I deployed.
  
  	1.  Signed into https://portal.azure.com/
 	
