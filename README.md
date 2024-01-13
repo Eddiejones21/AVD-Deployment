@@ -5,7 +5,7 @@
  
  	1.  Signed into https://portal.azure.com/
 	
-	2. Created a User 
+#### ***2. Created a User***
 		- Navigated to Users in the search tab
 		- Created a User Principal Name
 		- Created a display name
@@ -16,7 +16,7 @@
 		- Assigned a role to the user 
 		- Clicked Review + Create
 	
-	3. Created a Resource Group
+#### ***3. Created a Resource Group***
 		- Navigated to Resource Group in the search tab
 		- Clicked add
 		- In project details I selected "Azure Subscription 1" for my subscription
@@ -24,7 +24,7 @@
 		- Selected my region (example: (US) East US)
 		- Clicked Review + Create
 	
-	4. Created a Virtual Network 
+#### ***4. Created a Virtual Network***
 		- Navigated to Virtual Networks in the search tab
 		- Clicked add
 		- In project details I selected "Azure Subscription 1" 
@@ -34,7 +34,7 @@
 		- Selected the default IP Address and Subnet
 		- Clicked Review + Create
 	
-	5. Created a Host Pool
+#### ***5. Created a Host Pool***
 		- Navigated to Azure Virtual Desktop
 		- Clicked on Create a Host Pool
 		- In project details I selected "Azure Subscription 1" 
@@ -63,7 +63,7 @@
 		- Clicked on Advanced and pasted ;targetisaadjoined:i:1 to let any applications know that this is going to be an Azure AD computer
 		- Clicked save
 	
-	6. Created a User
+#### ***6. Created a User***
 		- Navigated to Users in the search tab
 		- Created a User Principal Name
 		- Created a display name
@@ -74,7 +74,7 @@
 		- Assigned a role to the user 
 		- Clicked Review + Create
 	
-	7. Assigned an AD User
+#### ***7. Assigned an AD User***
 		- Navigated to the Host Pool
 		- Clicked on the Host Pool to open up the overview
 		- Clicked on Application Groups
@@ -93,7 +93,7 @@
 		- In the role tab I searched for Virtual Machine Administrator Login, selected the role, then clicked next
 		- In the Members tab I selected a user, clicked select, then Review + Assign
 	
-	8. Created a Workspace
+#### ***8. Created a Workspace***
 		- Navigated to Azure Virtual Desktop 
 		- Clicked on Workspaces
 		- Clicked create 
