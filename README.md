@@ -1,11 +1,11 @@
-# AVD-Deployment
-	AVD-Deployment
+# 	AVD-Deployment
+## AVD-Deployment
  	
   	This repo serves to document my journey of deploying Azure Virtual Desktop. Also, in hopes that anyone who comes behind me can follow my instructions and easily learn as well.
  
  	1.  Signed into https://portal.azure.com/
 	
-	2. Created a User
+	2. Created a User 
 		- Navigated to Users in the search tab
 		- Created a User Principal Name
 		- Created a display name
@@ -16,7 +16,7 @@
 		- Assigned a role to the user 
 		- Clicked Review + Create
 	
-	3. Created a Resource Group 
+	3. Created a Resource Group
 		- Navigated to Resource Group in the search tab
 		- Clicked add
 		- In project details I selected "Azure Subscription 1" for my subscription
